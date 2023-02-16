@@ -1,0 +1,11 @@
+Feature: Hotel Room Booking
+
+Scenario: Login page
+	Given user can able to launch the URL
+	When user can able to enter the username in the text box
+	And user can able to enter the password in the password field
+	Then user can able to click the login button and navigate to next page
+	
+	
+	
+	
